@@ -20,7 +20,7 @@ This project is a phishing page of Recharge.com. It is designed to be adaptive (
 ## ⚙️ Setup Instructions
 1. Upload the files to a web server.
 2. Configure in js.js
-3. Test responsiveness and translation functionality.
+3. Test responsiveness and functionality.
 
 ## ⚠️ Disclaimer
 This project is for educational and security awareness purposes only. Unauthorized use for illegal activities is strictly prohibited. The author is not responsible for any misuse of this code.
