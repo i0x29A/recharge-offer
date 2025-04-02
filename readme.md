@@ -1,4 +1,4 @@
-# Trip.com Phishing Page
+# Recharge.com Phishing Page
 
 ## 🖼️ Screenshot
 ![Preview](https://i.imgur.com/fQy21MD.png)
